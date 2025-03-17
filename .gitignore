@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore exported/generated files
+exports/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp

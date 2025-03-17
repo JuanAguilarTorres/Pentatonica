@@ -1,0 +1,1 @@
+Pentatonica is a simple musical note sequencer with support for midi exporting.
