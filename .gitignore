@@ -21,3 +21,6 @@ env/
 *.log
 *.tmp
 *.swp
+
+# Ignore Soundfont
+assets/FluidR3_GM.sf2
