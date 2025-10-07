@@ -2,7 +2,7 @@
 
 A simple musical note sequencer with MIDI export support, designed to make music composition accessible to everyone.
 
-![notes_svg](https://github.com/user-attachments/assets/edc7fb6d-6ae8-4892-8994-ec6a686e1639)
+<img width="460" height="85" alt="imagen" src="https://github.com/user-attachments/assets/d7dd38ac-1713-4607-89e1-e0f7e7d887f6" />
 
 ## What is the Pentatonic Scale?
 
