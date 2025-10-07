@@ -1,11 +1,15 @@
+# Assets and configuration imports
 from assets.mapping import instrument_list
 import config.constants as constant
+# FluidSynth for MIDI synthesis
 import fluidsynth
+# Managers for drawing, layout, matrix handling, MIDI export, and note mapping
 from managers import drawManager
 from managers import layoutManager
 from managers.matrixManager import MatrixManager
 from managers.midiManager import export_to_midi
 from managers.noteManager import get_note_for_row
+# Standard libraries
 import math
 import pygame
 
