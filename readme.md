@@ -2,9 +2,11 @@
 
 A simple musical note sequencer with MIDI export support, designed to make music composition accessible to everyone.
 
+![notes_svg](https://github.com/user-attachments/assets/edc7fb6d-6ae8-4892-8994-ec6a686e1639)
+
 ## What is the Pentatonic Scale?
 
-The pentatonic scale is a five-note musical scale that has been used across cultures for thousands of years. Its beauty lies in its simplicity—because it omits the fourth and seventh scale degrees found in traditional major and minor scales, nearly any combination of its notes sounds harmonious together.
+The pentatonic scale is a five-note musical scale that has been used across cultures for thousands of years. Its beauty lies in its simplicity, because it omits the fourth and seventh scale degrees found in traditional major and minor scales, nearly any combination of its notes sounds harmonious together.
 
 This makes the pentatonic scale incredibly beginner-friendly: you can play notes in almost any pattern or rhythm, and it will sound musically pleasing. There's no "wrong" note, making it perfect for experimentation and creative exploration. You can try playing with it even without knowing music theory.
 
